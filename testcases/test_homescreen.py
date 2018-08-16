@@ -3,7 +3,6 @@ from pageobjects.homescreen import HomeScreen
 from values import strings
 from webdriver import Driver
 
-
 class TCHomeScreen(unittest.TestCase):
 
     def setUp(self):

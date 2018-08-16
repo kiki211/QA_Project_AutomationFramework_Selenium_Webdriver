@@ -9,7 +9,6 @@ from pageobjects.basepage import BasePage
 class HowShiftWorks(BasePage):
 
     def __init__(self, driver):
-        self.driver = driver
         super().__init__(driver)
         self.car_button = WebDriverWait(self.driver.instance, 10).until(
             EC.visibility_of_element_located((

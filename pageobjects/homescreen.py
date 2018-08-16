@@ -7,7 +7,6 @@ from values import strings
 class HomeScreen(BasePage):
 
     def __init__(self, driver):
-        self.driver = driver
         super().__init__(driver)
         # self.title = WebDriverWait(self.driver.instance, 10).until(
         #     EC.visibility_of_element_located((

@@ -1,3 +1,3 @@
 [
-  "testcases/test_howshiftworks.py::TCHowShiftWorks::test_how_shift_works_components"
+  "testcases/test_homescreen.py::TCHomeScreen::test_home_screen"
 ]
