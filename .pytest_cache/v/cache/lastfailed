@@ -1,0 +1,6 @@
+{
+  "testcases/TS_SHIFT.py::TestSuitesSHIFT::test_how_shift_works_components": true,
+  "testcases/TS_SHIFT.py::TestSuitsSHIFT::test_how_shift_works_components": true,
+  "testcases/test_home.py::TestHome::test_home_screen_components": true,
+  "testcases/test_howshiftworks.py::TestHowShiftWorks::test_how_shift_works_components": true
+}
